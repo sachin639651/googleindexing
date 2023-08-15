@@ -1,7 +1,7 @@
 {
   "name": "bulk-indexing-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Created by Steve at [Journey Further SEO](https://www.journeyfurther.com/)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
